@@ -2,7 +2,7 @@
 
 /**
 * find_path - finds the path from the global enviroment
-* Return: NULL if path is not found or path if path is found.
+* Return: NULL if path is not found or path if path found.
 */
 char *find_path(void)
 {
